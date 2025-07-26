@@ -50,7 +50,7 @@ Ensure you have a working Docker environment, then:
 
 1. Clone the project:
 ```bash
-git clone https://github.com/YOUR_USERNAME/pictures.git
+git clone https://github.com/jacobmousa/pictures.git
 cd pictures
 ```
 
