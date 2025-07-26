@@ -16,12 +16,49 @@ A full-stack web-based application to upload and manage personal pictures. Built
 - Validation and error handling
 - Reset form with confirmation
 - Responsive UI using Bootstrap
-- CORS setup for local development
 - Dockerized: API, DB, and frontend run in containers
 
+## 📦 Frontend Structure
+```
+frontend-react/
+├── src/
+│   ├── api/
+│   │   └── picturesApi.ts
+│   ├── components/
+│   │   ├── PictureForm.tsx
+│   │   └── PictureList.tsx
+│   └── App.tsx
+├── public/
+│   └── index.html
+├── index.tsx
+└── package.json
+```
+
+## 🗂️ Backend Structure
+```
+backend/
+├── Pictures.Api/             # ASP.NET Core Web API
+├── Pictures.Application/     # Application services (interfaces, DTOs)
+├── Pictures.Domain/          # Entities and domain logic
+└── Pictures.Infrastructure/  # EF Core DbContext, Repositories
 ---
 
-## 🖼️ Frontend (React)
+## 🚀 How to Run Using Docker Compose
+
+Ensure you have a working Docker environment, then:
+
+1. Clone the project:
+```bash
+git clone https://github.com/YOUR_USERNAME/pictures.git
+cd pictures
+```
+
+2. Start the full stack using Docker Compose:
+```bash
+docker-compose up --build
+```
+
+## 🖼️ Frontend (React) Seperatly
 
 ```bash
 cd pictures-frontend
