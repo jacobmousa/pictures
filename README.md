@@ -41,12 +41,10 @@ backend/
 ├── Pictures.Application/     # Application services (interfaces, DTOs)
 ├── Pictures.Domain/          # Entities and domain logic
 └── Pictures.Infrastructure/  # EF Core DbContext, Repositories
+```
 ---
 
-
-+---
-
-## How to Run Using Docker Compose
+## 🚀 How to Run Using Docker Compose
 
 Ensure you have a working Docker environment, then:
 
@@ -61,9 +59,16 @@ cd pictures
 docker-compose up --build
 ```
 
-## 🖼️ Frontend (React) Seperatly
+## 🖼️ Usefull Hints
 
+# Run frontend (React)
 ```bash
 cd pictures-frontend
 npm install
 npm run dev
+```
+# Run DotNet
+```bash
+cd backend
+dotnet run
+```
