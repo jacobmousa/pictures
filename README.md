@@ -59,6 +59,10 @@ cd pictures
 docker-compose up --build
 ```
 
+Run this to apply EF Core migrations and create the tables:
+```bash
+docker exec -it pictures-api dotnet ef database update --project ../Pictures.Infrastructure --startup-project .
+
 ## 🖼️ Usefull Hints
 
 # Run frontend (React)
