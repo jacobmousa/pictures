@@ -43,6 +43,7 @@ backend/
 └── Pictures.Infrastructure/  # EF Core DbContext, Repositories
 ---
 
+
 ## 🚀 How to Run Using Docker Compose
 
 Ensure you have a working Docker environment, then:
