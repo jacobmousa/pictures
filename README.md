@@ -46,7 +46,7 @@ backend/
 
 +---
 
-## 🚀 How to Run Using Docker Compose
+## How to Run Using Docker Compose
 
 Ensure you have a working Docker environment, then:
 
