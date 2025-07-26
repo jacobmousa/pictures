@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+.env
+
+# .NET
+bin/
+obj/
+*.db
+*.user
+*.suo
+
+# Docker
+*.log
+.env
+
+# IDEs
+.vscode/
+.idea/
