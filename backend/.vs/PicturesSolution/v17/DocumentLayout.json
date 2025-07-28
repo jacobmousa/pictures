@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\Pictures\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3B22F82-0A01-4F52-A255-6F8A644A1AF4}|Pictures.Api\\Pictures.Api.csproj|d:\\projects\\pictures\\backend\\pictures.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B22F82-0A01-4F52-A255-6F8A644A1AF4}|Pictures.Api\\Pictures.Api.csproj|solutionrelative:pictures.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3B22F82-0A01-4F52-A255-6F8A644A1AF4}|Pictures.Api\\Pictures.Api.csproj|d:\\projects\\pictures\\backend\\pictures.api\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3B22F82-0A01-4F52-A255-6F8A644A1AF4}|Pictures.Api\\Pictures.Api.csproj|solutionrelative:pictures.api\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBB4A6D2-5793-4CF4-8F17-F7E7025CB243}|Pictures.Infrastructure\\Pictures.Infrastructure.csproj|d:\\projects\\pictures\\backend\\pictures.infrastructure\\data\\picturedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB4A6D2-5793-4CF4-8F17-F7E7025CB243}|Pictures.Infrastructure\\Pictures.Infrastructure.csproj|solutionrelative:pictures.infrastructure\\data\\picturedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBB4A6D2-5793-4CF4-8F17-F7E7025CB243}|Pictures.Infrastructure\\Pictures.Infrastructure.csproj|d:\\projects\\pictures\\backend\\pictures.infrastructure\\repositories\\picturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBB4A6D2-5793-4CF4-8F17-F7E7025CB243}|Pictures.Infrastructure\\Pictures.Infrastructure.csproj|solutionrelative:pictures.infrastructure\\repositories\\picturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|d:\\projects\\pictures\\backend\\pictures.application\\services\\pictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|solutionrelative:pictures.application\\services\\pictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A48B81A5-8E3A-4562-975F-DCBA47F20393}|Pictures.Domain\\Pictures.Domain.csproj|d:\\projects\\pictures\\backend\\pictures.domain\\entities\\picture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|d:\\projects\\pictures\\backend\\pictures.application\\interfaces\\ipicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|solutionrelative:pictures.application\\interfaces\\ipicturerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|d:\\projects\\pictures\\backend\\pictures.application\\dtos\\pictureitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|solutionrelative:pictures.application\\dtos\\pictureitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|d:\\projects\\pictures\\backend\\pictures.application\\dtos\\pictureuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|solutionrelative:pictures.application\\dtos\\pictureuploaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|d:\\projects\\pictures\\backend\\pictures.application\\interfaces\\ipictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|solutionrelative:pictures.application\\interfaces\\ipictureservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B22F82-0A01-4F52-A255-6F8A644A1AF4}|Pictures.Api\\Pictures.Api.csproj|d:\\projects\\pictures\\backend\\pictures.api\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B22F82-0A01-4F52-A255-6F8A644A1AF4}|Pictures.Api\\Pictures.Api.csproj|solutionrelative:pictures.api\\controllers\\picturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B22F82-0A01-4F52-A255-6F8A644A1AF4}|Pictures.Api\\Pictures.Api.csproj|d:\\projects\\pictures\\backend\\pictures.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B22F82-0A01-4F52-A255-6F8A644A1AF4}|Pictures.Api\\Pictures.Api.csproj|solutionrelative:pictures.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3B22F82-0A01-4F52-A255-6F8A644A1AF4}|Pictures.Api\\Pictures.Api.csproj|d:\\projects\\pictures\\backend\\pictures.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -33,14 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DBB4A6D2-5793-4CF4-8F17-F7E7025CB243}|Pictures.Infrastructure\\Pictures.Infrastructure.csproj|d:\\projects\\pictures\\backend\\pictures.infrastructure\\migrations\\20250726113936_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBB4A6D2-5793-4CF4-8F17-F7E7025CB243}|Pictures.Infrastructure\\Pictures.Infrastructure.csproj|solutionrelative:pictures.infrastructure\\migrations\\20250726113936_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBB4A6D2-5793-4CF4-8F17-F7E7025CB243}|Pictures.Infrastructure\\Pictures.Infrastructure.csproj|d:\\projects\\pictures\\backend\\pictures.infrastructure\\data\\picturedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBB4A6D2-5793-4CF4-8F17-F7E7025CB243}|Pictures.Infrastructure\\Pictures.Infrastructure.csproj|solutionrelative:pictures.infrastructure\\data\\picturedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|d:\\projects\\pictures\\backend\\pictures.application\\dtos\\uploadpicturerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4988F4F-3063-4AE2-9469-6D1A0B39E671}|Pictures.Application\\Pictures.Application.csproj|solutionrelative:pictures.application\\dtos\\uploadpicturerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBB4A6D2-5793-4CF4-8F17-F7E7025CB243}|Pictures.Infrastructure\\Pictures.Infrastructure.csproj|d:\\projects\\pictures\\backend\\pictures.infrastructure\\migrations\\20250726113936_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,6 +79,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\Pictures\\backend\\Pictures.Application\\Dtos\\UploadPictureRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pictures.Application\\Dtos\\UploadPictureRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,7 +92,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -84,20 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UploadPictureRequest.cs",
-              "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\Dtos\\UploadPictureRequest.cs",
-              "RelativeDocumentMoniker": "Pictures.Application\\Dtos\\UploadPictureRequest.cs",
-              "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\Dtos\\UploadPictureRequest.cs",
-              "RelativeToolTip": "Pictures.Application\\Dtos\\UploadPictureRequest.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T12:02:33.601Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "PictureDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Migrations\\PictureDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Pictures.Infrastructure\\Migrations\\PictureDbContextModelSnapshot.cs",
@@ -105,12 +108,11 @@
               "RelativeToolTip": "Pictures.Infrastructure\\Migrations\\PictureDbContextModelSnapshot.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAmwBEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T11:45:28.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T11:45:28.75Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "20250726113936_InitialCreate.Designer.cs",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Migrations\\20250726113936_InitialCreate.Designer.cs",
               "RelativeDocumentMoniker": "Pictures.Infrastructure\\Migrations\\20250726113936_InitialCreate.Designer.cs",
@@ -118,12 +120,11 @@
               "RelativeToolTip": "Pictures.Infrastructure\\Migrations\\20250726113936_InitialCreate.Designer.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T11:45:19.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T11:45:19.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "20250726113936_InitialCreate.cs",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Migrations\\20250726113936_InitialCreate.cs",
               "RelativeDocumentMoniker": "Pictures.Infrastructure\\Migrations\\20250726113936_InitialCreate.cs",
@@ -131,8 +132,7 @@
               "RelativeToolTip": "Pictures.Infrastructure\\Migrations\\20250726113936_InitialCreate.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T11:41:14.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T11:41:14.301Z"
             },
             {
               "$type": "Document",
@@ -142,33 +142,33 @@
               "RelativeDocumentMoniker": "Pictures.Domain\\Entities\\Picture.cs",
               "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Domain\\Entities\\Picture.cs",
               "RelativeToolTip": "Pictures.Domain\\Entities\\Picture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T06:51:20.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "PicturesController.cs",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Api\\Controllers\\PicturesController.cs",
               "RelativeDocumentMoniker": "Pictures.Api\\Controllers\\PicturesController.cs",
               "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Api\\Controllers\\PicturesController.cs",
               "RelativeToolTip": "Pictures.Api\\Controllers\\PicturesController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAowAwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwBUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T06:46:47.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "PictureDbContext.cs",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Data\\PictureDbContext.cs",
               "RelativeDocumentMoniker": "Pictures.Infrastructure\\Data\\PictureDbContext.cs",
               "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Data\\PictureDbContext.cs",
               "RelativeToolTip": "Pictures.Infrastructure\\Data\\PictureDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T07:06:52.603Z",
               "EditorCaption": ""
@@ -181,40 +181,104 @@
               "RelativeDocumentMoniker": "Pictures.Application\\Interfaces\\IPictureRepository.cs",
               "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\Interfaces\\IPictureRepository.cs",
               "RelativeToolTip": "Pictures.Application\\Interfaces\\IPictureRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T06:53:39.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PictureRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Repositories\\PictureRepository.cs",
-              "RelativeDocumentMoniker": "Pictures.Infrastructure\\Repositories\\PictureRepository.cs",
-              "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Repositories\\PictureRepository.cs",
-              "RelativeToolTip": "Pictures.Infrastructure\\Repositories\\PictureRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T07:08:40.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Api\\Program.cs",
               "RelativeDocumentMoniker": "Pictures.Api\\Program.cs",
               "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Api\\Program.cs",
               "RelativeToolTip": "Pictures.Api\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T06:36:19.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PictureRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Repositories\\PictureRepository.cs",
+              "RelativeDocumentMoniker": "Pictures.Infrastructure\\Repositories\\PictureRepository.cs",
+              "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Repositories\\PictureRepository.cs",
+              "RelativeToolTip": "Pictures.Infrastructure\\Repositories\\PictureRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T07:08:40.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PictureService.cs",
+              "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\Services\\PictureService.cs",
+              "RelativeDocumentMoniker": "Pictures.Application\\Services\\PictureService.cs",
+              "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\Services\\PictureService.cs",
+              "RelativeToolTip": "Pictures.Application\\Services\\PictureService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:42:51.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PictureItemDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\DTOs\\PictureItemDto.cs",
+              "RelativeDocumentMoniker": "Pictures.Application\\DTOs\\PictureItemDto.cs",
+              "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\DTOs\\PictureItemDto.cs",
+              "RelativeToolTip": "Pictures.Application\\DTOs\\PictureItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T18:07:28.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PictureUploadDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\DTOs\\PictureUploadDto.cs",
+              "RelativeDocumentMoniker": "Pictures.Application\\DTOs\\PictureUploadDto.cs",
+              "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\DTOs\\PictureUploadDto.cs",
+              "RelativeToolTip": "Pictures.Application\\DTOs\\PictureUploadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:42:16.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPictureService.cs",
+              "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\Interfaces\\IPictureService.cs",
+              "RelativeDocumentMoniker": "Pictures.Application\\Interfaces\\IPictureService.cs",
+              "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\Interfaces\\IPictureService.cs",
+              "RelativeToolTip": "Pictures.Application\\Interfaces\\IPictureService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:42:43.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UploadPictureRequest.cs",
+              "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\DTOs\\UploadPictureRequest.cs",
+              "RelativeDocumentMoniker": "Pictures.Application\\DTOs\\UploadPictureRequest.cs",
+              "ToolTip": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\DTOs\\UploadPictureRequest.cs",
+              "RelativeToolTip": "Pictures.Application\\DTOs\\UploadPictureRequest.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T12:02:33.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Api\\appsettings.json",
               "RelativeDocumentMoniker": "Pictures.Api\\appsettings.json",
@@ -222,34 +286,31 @@
               "RelativeToolTip": "Pictures.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-26T08:11:58.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T08:11:58.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ViewState": "AgIAACgAAAAAAAAAAABBwDYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-07-26T06:48:14.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T06:48:14.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AgIAAP0AAAAAAAAAAABBwAkBAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-07-26T06:47:47.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T06:47:47.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Pictures.Application.csproj",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Application\\Pictures.Application.csproj",
               "RelativeDocumentMoniker": "Pictures.Application\\Pictures.Application.csproj",
@@ -257,12 +318,11 @@
               "RelativeToolTip": "Pictures.Application\\Pictures.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-26T06:50:24.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T06:50:24.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Pictures.Domain.csproj",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Domain\\Pictures.Domain.csproj",
               "RelativeDocumentMoniker": "Pictures.Domain\\Pictures.Domain.csproj",
@@ -270,12 +330,11 @@
               "RelativeToolTip": "Pictures.Domain\\Pictures.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-26T06:51:02.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T06:51:02.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Pictures.Infrastructure.csproj",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Infrastructure\\Pictures.Infrastructure.csproj",
               "RelativeDocumentMoniker": "Pictures.Infrastructure\\Pictures.Infrastructure.csproj",
@@ -283,12 +342,11 @@
               "RelativeToolTip": "Pictures.Infrastructure\\Pictures.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-26T06:51:09.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T06:51:09.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Pictures.Api.csproj",
               "DocumentMoniker": "D:\\Projects\\Pictures\\backend\\Pictures.Api\\Pictures.Api.csproj",
               "RelativeDocumentMoniker": "Pictures.Api\\Pictures.Api.csproj",
@@ -296,8 +354,7 @@
               "RelativeToolTip": "Pictures.Api\\Pictures.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-26T06:46:07.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T06:46:07.838Z"
             }
           ]
         }

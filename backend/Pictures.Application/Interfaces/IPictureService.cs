@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Pictures.Application.Interfaces
 {
-    public interface IPictureRepository
+    public interface IPictureService
     {
         Task<IEnumerable<PictureItemDto>> GetAllAsync();
-        Task AddAsync(Picture picture);
+        Task AddAsync(PictureUploadDto dto);
     }
 }

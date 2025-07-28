@@ -4,6 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Pictures.Application.Interfaces;
+using Pictures.Application.Services;
 using Pictures.Infrastructure.Data;
 using Pictures.Infrastructure.Repositories;
 using System;
@@ -27,6 +28,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<PictureDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IPictureRepository, PictureRepository>();
+builder.Services.AddScoped<IPictureService, PictureService>();
 
 var app = builder.Build();
 
