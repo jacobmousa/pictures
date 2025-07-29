@@ -37,10 +37,10 @@ frontend-react/
 ## 🗂️ Backend Structure
 ```
 backend/
-├── Pictures.Api/             # ASP.NET Core Web API
-├── Pictures.Application/     # Application services (interfaces, DTOs)
-├── Pictures.Domain/          # Entities and domain logic
-└── Pictures.Infrastructure/  # EF Core DbContext, Repositories
+├── Pictures.Api/             # Presentation layer (Web API)
+├── Pictures.Application/     # Application layer (services, interfaces, DTOs)
+├── Pictures.Domain/          # Core business logic (entities, domain services)
+└── Pictures.Infrastructure/  # Infrastructure (EF Core DbContext, repositories)
 ```
 ---
 
