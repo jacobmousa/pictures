@@ -1,3 +1,4 @@
+
 # 📷 Personal Pictures System
 
 A full-stack web-based application to upload and manage personal pictures. Built with:
@@ -9,8 +10,10 @@ A full-stack web-based application to upload and manage personal pictures. Built
 
 ---
 
+## Project Demo
 
 ![My GIF](Pictures.gif)
+
 
 ## ✨ Features
 
