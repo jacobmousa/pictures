@@ -8,6 +8,6 @@ namespace Pictures.Application.Interfaces
     public interface IPictureService
     {
         Task<IEnumerable<PictureItemDto>> GetAllAsync();
-        Task AddAsync(PictureUploadDto dto);
+        Task<OperationResultDto> AddAsync(PictureUploadDto dto);
     }
 }

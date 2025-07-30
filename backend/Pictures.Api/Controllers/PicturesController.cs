@@ -26,8 +26,8 @@ namespace Pictures.Api.Controllers
         [HttpPut]
         public async Task<IActionResult> Upload([FromForm] PictureUploadDto dto)
         {
-            await _service.AddAsync(dto);
-            return Ok();
+            var result = await _service.AddAsync(dto);
+            return result.Error == null ? Ok(result) : BadRequest(result);
         }
     }
 }

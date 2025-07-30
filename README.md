@@ -9,6 +9,9 @@ A full-stack web-based application to upload and manage personal pictures. Built
 
 ---
 
+
+![My GIF](Pictures.gif)
+
 ## ✨ Features
 
 - Upload picture files with metadata (name, date, description)

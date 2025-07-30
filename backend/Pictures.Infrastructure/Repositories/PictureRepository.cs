@@ -18,6 +18,11 @@ namespace Pictures.Infrastructure.Repositories
             _context = context;
         }
 
+
+        public async Task<bool> ExistsByFileNameAsync(string fileName) =>
+         await _context.Pictures.AnyAsync(p => p.FileName == fileName);
+
+
         public async Task<IEnumerable<PictureItemDto>> GetAllAsync()
         {
             return await _context.Pictures
@@ -25,10 +30,11 @@ namespace Pictures.Infrastructure.Repositories
                .ToListAsync();
         }
 
-        public async Task AddAsync(Picture picture)
+        public async Task<int> AddAsync(Picture picture)
         {
             _context.Pictures.Add(picture);
             await _context.SaveChangesAsync();
+            return picture.Id; // EF Core automatically populates Id after SaveChangesAsync
         }
     }
 }
